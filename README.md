@@ -1,6 +1,6 @@
 # flutter_firebase_push_notifications
 
-A new Flutter project.
+A sample Flutter application to demonstrate how one can receive notifications sent from the Firebase Cloud Messaging console.
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Video referred to while developing this application: https://www.youtube.com/watch?v=PpAoCXEnvvM&list=LL&index=2&t=3s
